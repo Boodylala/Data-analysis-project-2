@@ -1,0 +1,61 @@
+timestamp,gender,major,year,full_time,stress,leisure_hours,leisure_activity,interference,manages_time,time_dominant,satisfaction,mgmt_helps,wants_improvement,act_social_media,act_watching_tv,act_gaming,act_sports,act_hanging_out,act_reading
+2026/04/05 5:26:21 PM GMT+2,Male,Computer Science,Second year,Yes,Often,3–4 hours,Social media,Always,No,Leisure activities,Neutral,Yes,Yes,1,0,0,0,0,0
+2026/04/05 5:27:02 PM GMT+2,Male,Computer Science,Second year,Yes,Sometimes,1–2 hours,Hanging out with friends,Maybe,Yes,Leisure activities,Neutral,Yes,Yes,0,0,0,0,1,0
+2026/04/05 5:29:32 PM GMT+2,Male,Computer Science,Second year,Yes,Sometimes,3–4 hours,Reading for pleasure,Always,No,Leisure activities,Satisfied,Yes,No,0,0,0,0,0,1
+2026/04/05 5:30:35 PM GMT+2,Female,Computer Science,Second year,No,Often,3–4 hours,Watching TV / movies,Often,Yes,Both equally,Neutral,Yes,Yes,0,1,0,0,0,0
+2026/04/05 5:31:52 PM GMT+2,Male,Computer Science,Second year,Yes,Sometimes,3–4 hours,Sports / exercise,Often,Yes,Both equally,Satisfied,Yes,Yes,0,0,0,1,0,0
+2026/04/05 5:32:25 PM GMT+2,Male,Engineering,Second year,Yes,Often,3–4 hours,Hanging out with friends,Often,No,Leisure activities,Dissatisfied,Yes,Yes,0,0,0,0,1,0
+2026/04/05 5:33:07 PM GMT+2,Male,Computer Science,Second year,Yes,Sometimes,More than 6 hours,Gaming,Often,No,Leisure activities,Neutral,Yes,Yes,0,0,1,0,0,0
+2026/04/05 5:33:07 PM GMT+2,Male,Computer Science,Second year,Yes,Always,1–2 hours,Sports / exercise,Often,No,Leisure activities,Neutral,Yes,Yes,0,0,0,1,0,0
+2026/04/05 5:34:08 PM GMT+2,Male,Business,First year,Yes,Always,3–4 hours,Social media;Watching TV / movies;Gaming,Often,No,Leisure activities,Dissatisfied,Yes,Yes,1,1,1,0,0,0
+2026/04/05 5:34:32 PM GMT+2,Female,Business,Second year,Yes,Sometimes,3–4 hours,Social media;Watching TV / movies,Always,No,Leisure activities,Dissatisfied,Yes,Yes,1,1,0,0,0,0
+2026/04/05 5:36:14 PM GMT+2,Male,Computer Science,Second year,Yes,Often,5–6 hours,Social media;Gaming;Sports / exercise,Often,No,Leisure activities,Dissatisfied,Yes,Yes,1,0,1,1,0,0
+2026/04/05 5:36:45 PM GMT+2,Male,Computer Science,Second year,Yes,Often,3–4 hours,Hanging out with friends,Maybe,No,Studying,Dissatisfied,Yes,Yes,0,0,0,0,1,0
+2026/04/05 5:38:32 PM GMT+2,Male,Engineering,First year,Yes,Always,1–2 hours,Social media;Gaming;Hanging out with friends,Maybe,No,Leisure activities,Dissatisfied,Yes,Yes,1,0,1,0,1,0
+2026/04/05 5:38:53 PM GMT+2,Male,Business,Fourth year,Yes,Often,3–4 hours,Social media;Watching TV / movies;Gaming;Sports / exercise;Hanging out with friends,Often,No,Studying,Dissatisfied,Yes,Yes,1,1,1,1,1,0
+2026/04/05 5:40:30 PM GMT+2,Male,Business,First year,Yes,Sometimes,3–4 hours,Social media;Hanging out with friends,Maybe,Yes,Both equally,Neutral,Yes,Yes,1,0,0,0,1,0
+2026/04/05 5:42:24 PM GMT+2,Male,Computer Science,Fifth year or above,No,Often,3–4 hours,Social media;Gaming;Hanging out with friends;Reading for pleasure,Maybe,No,Leisure activities,Dissatisfied,Yes,Yes,1,0,1,0,1,1
+2026/04/05 5:42:42 PM GMT+2,Male,Computer Science,Second year,Yes,Sometimes,1–2 hours,Gaming;Sports / exercise,Maybe,Yes,Both equally,Neutral,Yes,Yes,0,0,1,1,0,0
+2026/04/05 5:43:05 PM GMT+2,Male,Engineering,Second year,Yes,Always,1–2 hours,Social media;Gaming;Hanging out with friends,Often,No,Leisure activities,Very dissatisfied,Yes,Yes,1,0,1,0,1,0
+2026/04/05 5:43:12 PM GMT+2,Female,Arts & Design,Fifth year or above,No,Never,3–4 hours,Reading for pleasure,Rarely,No,Both equally,Neutral,Yes,Yes,0,0,0,0,0,1
+2026/04/05 5:43:23 PM GMT+2,Female,Computer Science,Second year,Yes,Always,3–4 hours,Social media;Gaming;Reading for pleasure,Maybe,No,Leisure activities,Dissatisfied,Yes,Yes,1,0,1,0,0,1
+2026/04/05 5:46:08 PM GMT+2,Male,Medicine,First year,Yes,Always,3–4 hours,Social media;Gaming;Hanging out with friends;wasting time ,Always,No,Studying,Very dissatisfied,Yes,Yes,1,0,1,0,1,0
+2026/04/05 5:46:53 PM GMT+2,Male,Medicine,First year,Yes,Often,3–4 hours,Social media;Watching TV / movies;Gaming,Always,No,Leisure activities,Very dissatisfied,Yes,Yes,1,1,1,0,0,0
+2026/04/05 5:50:49 PM GMT+2,Male,Computer Science,Second year,No,Always,1–2 hours,Social media;Gaming;Sports / exercise;Hanging out with friends,Maybe,No,Leisure activities,Neutral,Yes,Yes,1,0,1,1,1,0
+2026/04/05 5:54:07 PM GMT+2,Male,Computer Science,Third year,Yes,Often,1–2 hours,Social media;Watching TV / movies;Gaming;Sports / exercise;Hanging out with friends,Maybe,Yes,Studying,Satisfied,Yes,Yes,1,1,1,1,1,0
+2026/04/05 5:54:39 PM GMT+2,Male,Computer Science,Third year,Yes,Often,1–2 hours,Gaming,Maybe,No,Both equally,Satisfied,Yes,Yes,0,0,1,0,0,0
+2026/04/05 5:55:34 PM GMT+2,Male,Computer Science,Second year,Yes,Often,5–6 hours,Social media;Watching TV / movies;Sports / exercise;Hanging out with friends,Often,No,Leisure activities,Dissatisfied,Yes,Yes,1,1,0,1,1,0
+2026/04/05 5:56:07 PM GMT+2,Male,Computer Science,Second year,Yes,Sometimes,5–6 hours,Social media;Watching TV / movies;Gaming;Sports / exercise;Hanging out with friends,Rarely,Yes,Both equally,Neutral,Yes,Yes,1,1,1,1,1,0
+2026/04/05 6:01:12 PM GMT+2,Female,Business,First year,Yes,Often,1–2 hours,Social media;Gaming;Sports / exercise,Often,Yes,Leisure activities,Neutral,Yes,Yes,1,0,1,1,0,0
+2026/04/05 6:05:16 PM GMT+2,Male,Computer Science,Second year,Yes,Often,3–4 hours,Social media;Sports / exercise,Maybe,Yes,Both equally,Neutral,Yes,Yes,1,0,0,1,0,0
+2026/04/05 6:07:44 PM GMT+2,Male,Computer Science,Second year,Yes,Always,3–4 hours,Social media;Gaming;Sports / exercise,Maybe,Yes,Both equally,Neutral,Yes,Yes,1,0,1,1,0,0
+2026/04/05 6:15:23 PM GMT+2,Female,Business,Second year,Yes,Always,More than 6 hours,Social media;Watching TV / movies;Gaming;Hanging out with friends,Often,Yes,Both equally,Neutral,Yes,Yes,1,1,1,0,1,0
+2026/04/05 6:15:54 PM GMT+2,Male,Business,First year,Yes,Sometimes,More than 6 hours,Social media;Gaming;Sports / exercise;Hanging out with friends,Always,No,Leisure activities,Dissatisfied,Yes,Yes,1,0,1,1,1,0
+2026/04/05 6:24:18 PM GMT+2,Male,Computer Science,Second year,Yes,Sometimes,1–2 hours,Watching TV / movies;Reading for pleasure,Rarely,Yes,Studying,Very satisfied,Yes,Yes,0,1,0,0,0,1
+2026/04/05 6:25:30 PM GMT+2,Female,Computer Science,Second year,Yes,Always,5–6 hours,Watching TV / movies;Sports / exercise;Reading for pleasure,Maybe,Yes,Leisure activities,Satisfied,No,No,0,1,0,1,0,1
+2026/04/05 6:26:07 PM GMT+2,Female,Mass communication ,Fifth year or above,No,Always,Less than 1 hour,Social media;Hanging out with friends,Maybe,No,Studying,Dissatisfied,Yes,Yes,1,0,0,0,1,0
+2026/04/05 6:33:34 PM GMT+2,Female,Computer Science,Second year,Yes,Always,3–4 hours,Social media;Sports / exercise,Often,No,Studying,Dissatisfied,Yes,Yes,1,0,0,1,0,0
+2026/04/05 6:39:20 PM GMT+2,Male,Computer Science,Second year,Yes,Always,3–4 hours,Social media;Watching TV / movies;Hanging out with friends,Always,No,Leisure activities,Very dissatisfied,Yes,Yes,1,1,0,0,1,0
+2026/04/05 7:01:11 PM GMT+2,Female,Computer Science,Second year,Yes,Often,1–2 hours,Social media,Often,Yes,Both equally,Neutral,Yes,Yes,1,0,0,0,0,0
+2026/04/05 7:05:37 PM GMT+2,Female,Computer Science,Second year,Yes,Often,3–4 hours,Social media;Watching TV / movies;Reading for pleasure,Often,No,Leisure activities,Neutral,Yes,Yes,1,1,0,0,0,1
+2026/04/05 7:15:55 PM GMT+2,Male,Engineering,First year,Yes,Always,3–4 hours,Social media;Watching TV / movies;Gaming;Hanging out with friends,Always,Yes,Both equally,Neutral,Yes,Yes,1,1,1,0,1,0
+2026/04/05 7:17:01 PM GMT+2,Male,Other,Third year,Yes,Sometimes,5–6 hours,Social media;Watching TV / movies;Gaming,Often,No,Leisure activities,Dissatisfied,Yes,Yes,1,1,1,0,0,0
+2026/04/05 7:19:17 PM GMT+2,Male,Computer Science,Second year,Yes,Sometimes,More than 6 hours,Social media;Watching TV / movies,Always,Yes,Leisure activities,Satisfied,Yes,Yes,1,1,0,0,0,0
+2026/04/05 7:20:38 PM GMT+2,Female,Computer Science,Second year,Yes,Sometimes,3–4 hours,Social media;Gaming,Maybe,No,Both equally,Neutral,Yes,Yes,1,0,1,0,0,0
+2026/04/05 7:20:49 PM GMT+2,Male,Engineering,First year,Yes,Sometimes,3–4 hours,Gaming;Hanging out with friends,Often,Yes,Leisure activities,Satisfied,Yes,Yes,0,0,1,0,1,0
+2026/04/05 7:24:55 PM GMT+2,Male,Arts & Design,First year,Yes,Sometimes,3–4 hours,Social media;Gaming;Hanging out with friends,Often,No,Both equally,Dissatisfied,Yes,Yes,1,0,1,0,1,0
+2026/04/05 7:27:15 PM GMT+2,Male,Engineering,First year,Yes,Often,1–2 hours,Social media;Gaming;Sports / exercise;Hanging out with friends,Maybe,Yes,Studying,Neutral,Yes,Yes,1,0,1,1,1,0
+2026/04/05 7:41:32 PM GMT+2,Male,Medicine,Fourth year,Yes,Often,3–4 hours,Social media;Watching TV / movies;Sports / exercise;Hanging out with friends,Often,No,Leisure activities,Satisfied,No,Yes,1,1,0,1,1,0
+2026/04/05 7:43:13 PM GMT+2,Female,Computer Science,Second year,Yes,Always,More than 6 hours,Social media;Hanging out with friends,Always,No,Leisure activities,Very dissatisfied,Yes,Yes,1,0,0,0,1,0
+2026/04/05 7:47:46 PM GMT+2,Female,Computer Science,Second year,Yes,Often,5–6 hours,Social media;Gaming,Always,No,Leisure activities,Very dissatisfied,Yes,Yes,1,0,1,0,0,0
+2026/04/05 8:06:27 PM GMT+2,Female,Computer Science,Second year,Yes,Sometimes,More than 6 hours,Social media;Watching TV / movies,Often,No,Both equally,Dissatisfied,Yes,Yes,1,1,0,0,0,0
+2026/04/05 8:11:23 PM GMT+2,Female,Engineering,First year,Yes,Always,5–6 hours,Social media;Watching TV / movies;Hanging out with friends,Often,No,Leisure activities,Very dissatisfied,Yes,Yes,1,1,0,0,1,0
+2026/04/05 8:14:42 PM GMT+2,Male,Engineering,Second year,Yes,Always,3–4 hours,Social media;Watching TV / movies;Gaming;Sports / exercise;Hanging out with friends,Always,No,Both equally,Very satisfied,Yes,Yes,1,1,1,1,1,0
+2026/04/05 8:41:40 PM GMT+2,Male,Cyber security and ethical hacking ,Third year,Yes,Often,3–4 hours,Social media;Watching TV / movies,Always,No,Leisure activities,Neutral,Yes,Yes,1,1,0,0,0,0
+2026/04/05 8:41:47 PM GMT+2,Male,Engineering,Third year,Yes,Often,5–6 hours,Social media;Watching TV / movies;Hanging out with friends,Often,Yes,Leisure activities,Dissatisfied,Yes,Yes,1,1,0,0,1,0
+2026/04/05 10:07:29 PM GMT+2,Female,Computer Science,Second year,Yes,Often,3–4 hours,Social media;Watching TV / movies;Hanging out with friends,Often,No,Leisure activities,Dissatisfied,Yes,Yes,1,1,0,0,1,0
+2026/04/05 10:12:23 PM GMT+2,Female,Business,First year,Yes,Often,3–4 hours,Social media;Watching TV / movies,Maybe,Yes,Leisure activities,Satisfied,Yes,Yes,1,1,0,0,0,0
+2026/04/06 3:01:30 AM GMT+2,Male,Engineering,Second year,Yes,Often,3–4 hours,Social media;Watching TV / movies;Hanging out with friends,Often,No,Leisure activities,Dissatisfied,Yes,Yes,1,1,0,0,1,0
+2026/04/06 9:25:49 AM GMT+2,Male,Computer Science,Third year,Yes,Always,1–2 hours,Social media;Hanging out with friends,Maybe,No,Both equally,Very satisfied,Yes,Yes,1,0,0,0,1,0
+2026/04/06 12:55:23 PM GMT+2,Male,Computer Science,First year,Yes,Sometimes,3–4 hours,Watching TV / movies;Gaming;Sports / exercise,Maybe,Yes,Both equally,Neutral,Yes,Yes,0,1,1,1,0,0
+2026/04/06 1:42:26 PM GMT+2,Male,Business,First year,Yes,Sometimes,5–6 hours,Social media;Sports / exercise,Often,Yes,Leisure activities,Dissatisfied,Yes,Yes,1,0,0,1,0,0
